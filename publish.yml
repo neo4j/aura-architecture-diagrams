@@ -1,15 +1,13 @@
 # Use this playbook file when you need to build and publish multuple versions of your content together
 site:
-  title: Neo4j Docs Template
+  title: Aura Architecture Diagrams
   url: https://neo4j.com/docs
-  start_page: docs-template:ROOT:index.adoc
+  start_page: aura-architecture-diagrams:ROOT:index.adoc
 
 content:
   sources:
   - url: ./
-  # Update edit_url by replacing DOCS_REPO_NAME with the correct repository name
-  - edit_url: https://github.com/neo4j/DOCS_REPO_NAME/issues/new?title=Docs%20Feedback:%20{path}%20(ref:%20{refname})
-    branches: ['HEAD', 'dev']
+    branches: ['HEAD']
     exclude:
     - '!**/_includes/*'
     - '!**/readme.adoc'
@@ -30,7 +28,6 @@ asciidoc:
   - "@neo4j-documentation/macros"
   - "@neo4j-antora/antora-add-notes"
   - "@neo4j-antora/antora-page-roles"
-  - "@neo4j-antora/antora-table-footnotes"
   - "@neo4j-antora/mark-terms"
   attributes:
     # page-attributes are used by the ui-bundle and by extensions

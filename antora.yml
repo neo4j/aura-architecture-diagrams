@@ -1,7 +1,6 @@
-name: docs-template
-title: Neo4j Documentation template
-version: '1.0'
-# display_version: '1.0-preview'
+name: aura-architecture-diagrams
+title: Aura Architecture Diagrams
+version: ~
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/content-nav.adoc
