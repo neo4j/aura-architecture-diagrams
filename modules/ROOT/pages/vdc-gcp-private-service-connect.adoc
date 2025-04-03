@@ -1,6 +1,6 @@
 [[aura]]
-= AuraDB Virtual Dedicated Cloud on GCP with Private Service Connect 
-:description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on GCP with Private Service Connect 
+= AuraDB Virtual Dedicated Cloud on GCP with GCP Private Service Connect 
+:description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on GCP with GCP Private Service Connect 
 
 [.shadow]
-image::vdc-gcp-private-service-connect.svg[AuraDB Virtual Dedicated Cloud on GCP with Private Service Connect]
+image::vdc-gcp-private-service-connect.svg[AuraDB Virtual Dedicated Cloud on GCP with GCP Private Service Connect]
