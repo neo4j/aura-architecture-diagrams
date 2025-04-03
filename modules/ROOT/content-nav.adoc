@@ -5,5 +5,5 @@
 * xref:vdc-gcp-private-service-connect.adoc[]
 * xref:vdc-azure.adoc[]
 * xref:vdc-azure-privatelink.adoc[]
-* xref:business-critical-gcp.adoc[]
 * xref:platform-architecture-any-cloud.adoc[]
+* xref:business-critical-gcp.adoc[]
