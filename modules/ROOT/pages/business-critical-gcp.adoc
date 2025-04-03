@@ -1,0 +1,6 @@
+[[aura]]
+= AuraDB Business Critical on GCP
+:description: Neo4j Aura Cloud Architecture - AuraDB Business Critical on GCP
+
+[.shadow]
+image::business-critical-gcp.svg[AuraDB Business Critical on GCP]

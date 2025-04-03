@@ -1,0 +1,6 @@
+[[aura]]
+= AuraDB Virtual Dedicated Cloud on Azure
+:description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on Azure 
+
+[.shadow]
+image::vdc-azure.svg[AuraDB Virtual Dedicated Cloud on Azure]

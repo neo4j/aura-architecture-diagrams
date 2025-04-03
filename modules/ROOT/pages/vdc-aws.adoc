@@ -1,0 +1,6 @@
+[[aura]]
+= AuraDB Virtual Dedicated Cloud on AWS 
+:description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on AWS 
+
+[.shadow]
+image::vdc-aws.svg[AuraDB Virtual Dedicated Cloud on AWS]
