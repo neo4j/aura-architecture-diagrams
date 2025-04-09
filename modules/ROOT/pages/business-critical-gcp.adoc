@@ -3,9 +3,9 @@
 :description: Neo4j Aura Cloud Architecture - AuraDB Business Critical on GCP
 
 This diagram illustrates the architecture of Business Critical and Professional running on Google Cloud Platform (GCP). 
-It shows how customer connections are routed through shared infrastructure components such as load balancers and Kubernetes clusters, while ensuring secure isolation of data and workloads.
+It shows how customer connections are routed through shared infrastructure components such as load balancers and Kubernetes nodes, while isolating data.
 
-Use this diagram to understand how Aura is deployed in GCP, how traffic flows from client applications, and how Neo4j maintains availability and separation in a shared environment.
+Use this diagram to understand how Aura is deployed in GCP, how traffic flows from client applications, and how Neo4j maintains availability zones and separation in a shared environment.
 
 [NOTE]
 ====

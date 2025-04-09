@@ -11,7 +11,7 @@ This repository contains Aura architecture diagrams for Virtual Dedicated Cloud 
 
 It also contains diagrams of how to connect with each cloud provider's private endpoints (AWS PrivateLink, GCP Private Service Connect, Azure Private Link).
 Private endpoints are network interfaces inside your own VPC, which can only be accessed within your private network. 
-The cloud provider connects them over their network to Neo4j Aura. By design they are not exposed to the public internet, ensuring that critical services are accessible only through private, secure networks. 
+The cloud provider connects them over their network to Aura. By design they are not exposed to the public internet, ensuring that critical services are accessible only through private, secure networks. 
 See xref:aura/security/secure-connections/[Secure connections] for more information.
 
 == Platform architecture
