@@ -1,5 +1,5 @@
 [[aura]]
-= AuraDB Virtual Dedicated Cloud on AWS with AWS PrivateLink
+= Virtual Dedicated Cloud on AWS with PrivateLink
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on AWS with AWS PrivateLink
 
 image::vdc-aws-privatelink.svg[AuraDB Virtual Dedicated Cloud on AWS with AWS PrivateLink]

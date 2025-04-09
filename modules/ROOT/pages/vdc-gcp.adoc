@@ -1,5 +1,5 @@
 [[aura]]
-= AuraDB Virtual Dedicated Cloud on GCP
+= Virtual Dedicated Cloud on GCP
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on GCP
 
 image::vdc-gcp.svg[AuraDB Virtual Dedicated Cloud on GCP]

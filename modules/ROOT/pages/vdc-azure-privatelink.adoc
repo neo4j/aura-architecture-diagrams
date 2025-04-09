@@ -1,5 +1,5 @@
 [[aura]]
-= AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link
+= Virtual Dedicated Cloud on Azure with Private Link
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link
 
 image::vdc-azure-privatelink.svg[AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link]
