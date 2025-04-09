@@ -2,7 +2,8 @@
 = Virtual Dedicated Cloud on AWS with PrivateLink
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on AWS with AWS PrivateLink
 
-AWS PrivateLink allows organizations to securely access AWS services within a virtual private cloud (VPC), giving them greater control over their data and mitigating the security risks associated with exposing data to the public internet.
+AWS PrivateLink allows organizations to securely access AWS services within a virtual private cloud (VPC), giving them greater control over their data and mitigating the security risks associated with exposing data to the public internet. 
+See xref:/aura/security/secure-connections/#_aws_private_endpoints[AWS Private Endpoints] for more information.
 
 [NOTE]
 ====

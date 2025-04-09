@@ -3,7 +3,8 @@
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on GCP with GCP Private Service Connect 
 
 Google Private Service Connect allows you to securely connect your Virtual Private Cloud (VPC) network to services provided by Google or third-party service providers. 
-It enables private communication between your VPC and the service without needing public IP addresses or traversing the internet.
+It enables private communication between your VPC and the service without needing public IP addresses or traversing the internet. 
+See xref:/aura/security/secure-connections/#_gcp_private_endpoints[GCP Private Endpoints] for more information.
 
 [NOTE]
 ====
