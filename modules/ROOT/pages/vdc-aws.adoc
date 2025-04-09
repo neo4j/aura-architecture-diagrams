@@ -2,4 +2,11 @@
 = Virtual Dedicated Cloud on AWS 
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on AWS 
 
+This diagram shows the architecture of a deployment on AWS and highlights components such as the customer network and the connection flow from developer tools and applications. 
+
+[NOTE]
+====
+Click the diagram to enlarge it.
+====
+
 image::vdc-aws.svg[AuraDB Virtual Dedicated Cloud on AWS]

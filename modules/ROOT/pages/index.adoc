@@ -1,7 +1,10 @@
 ifdef::backend-pdf[]
-= Aura architecture diagrams
+= Introduction
 endif::[]
 ifndef::backend-pdf[]
-= Aura architecture diagrams
+= Introduction
 endif::[]
 
+This repository contains Aura architecture diagrams for each supported cloud provider, and some shared platform architectures. 
+
+These diagrams show how Aura is deployed in isolated, customer-specific environments and highlight key architectural components, including network boundaries and typical connection flows for applications and developer tools.
