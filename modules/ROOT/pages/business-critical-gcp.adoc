@@ -7,9 +7,9 @@ It shows how customer connections are routed through shared infrastructure compo
 
 Use this diagram to understand how Aura is deployed in GCP, how traffic flows from client applications, and how Neo4j maintains availability zones and separation in a shared environment.
 
-[NOTE]
-====
-Click the diagram to enlarge it.
-====
-
 image::business-critical-gcp.svg[AuraDB Business Critical on GCP]
+
+[TIP]
+====
+Click to enlarge
+====

@@ -5,18 +5,9 @@ ifndef::backend-pdf[]
 = Introduction
 endif::[]
 
-== Virtual Dedicated Cloud
+This repository contains Aura architecture diagrams for Virtual Dedicated Cloud (VDC) deployments for each supported cloud provider (AWS, GCP, Azure).
 
-This repository contains Aura architecture diagrams for Virtual Dedicated Cloud (VDC) deployments for each supported cloud provider (AWS, GCP, Azure). 
-
-It also contains diagrams of how to connect with each cloud provider's private endpoints (AWS PrivateLink, GCP Private Service Connect, Azure Private Link).
-Private endpoints are network interfaces inside your own VPC, which can only be accessed within your private network. 
-The cloud provider connects them over their network to Aura. By design they are not exposed to the public internet, ensuring that critical services are accessible only through private, secure networks. 
+Additional diagrams show how to connect with each cloud provider's private endpoints (AWS PrivateLink, GCP Private Service Connect, Azure Private Link).
 See xref:aura/security/secure-connections/[Secure connections] for more information.
 
-== Platform architecture
-
-It also includes Platform architecture diagrams that represent shared infrastructure models used in the Professional and Business Critical tiers.
-
-These diagrams illustrate how Aura is deployed across both isolated, customer-specific environments and shared platforms. Each highlights key architectural components such as network boundaries and typical connection flows for applications and developer tools.
-
+Platform architecture diagrams represent shared infrastructures used in the Professional and Business Critical plans.

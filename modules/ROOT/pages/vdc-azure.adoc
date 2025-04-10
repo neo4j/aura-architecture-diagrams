@@ -2,11 +2,11 @@
 = Virtual Dedicated Cloud on Azure
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on Azure 
 
-This diagram shows the architecture of a deployment on GCP and highlights components such as the customer network and the connection flow from developer tools and applications.
-
-[NOTE]
-====
-Click the diagram to enlarge it.
-====
+This diagram illustrates the architecture of an Aura deployment on GCP and highlights components such as the customer network and the connection flow from developer tools and applications.
 
 image::vdc-azure.svg[AuraDB Virtual Dedicated Cloud on Azure]
+
+[TIP]
+====
+Click to enlarge
+====

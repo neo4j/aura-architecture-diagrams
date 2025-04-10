@@ -2,12 +2,12 @@
 = Virtual Dedicated Cloud on Azure with Private Link
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link
 
-Azure Private Link simplifies the network architecture and secures the connection between endpoints in Azure by eliminating data exposure to the public internet. 
-See xref:/aura/security/secure-connections/#_azure_private_endpoints[Azure Private Endpoints] for more information.
-
-[NOTE]
-====
-Click the diagram to enlarge it.
-====
+Use Azure Private Link to connect securely to an Aura deployment without exposing traffic to the public internet.
+For more information see https://neo4j.com/docs/aura/security/secure-connections/#_azure_private_endpoints[Azure Private Endpoints].
 
 image::vdc-azure-privatelink.svg[AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link]
+
+[TIP]
+====
+Click to enlarge
+====
