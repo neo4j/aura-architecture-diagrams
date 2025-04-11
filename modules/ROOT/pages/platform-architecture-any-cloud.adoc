@@ -1,4 +1,3 @@
-[[aura]]
 = Business Critical / Professional Shared Architecture (Any Cloud)
 :description: Neo4j Aura Cloud Architecture - AuraDB Business Critical (Shared) Architecture (Any Cloud)
 
@@ -11,5 +10,5 @@ image::platform-architecture-any-cloud.svg[AuraDB Business Critical (Shared) Arc
 
 [TIP]
 ====
-Click to enlarge
+Click to enlarge.
 ====
