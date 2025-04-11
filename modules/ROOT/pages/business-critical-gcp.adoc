@@ -1,4 +1,3 @@
-[[aura]]
 = Business Critical / Professional on GCP
 :description: Neo4j Aura Cloud Architecture - AuraDB Business Critical on GCP
 
@@ -11,5 +10,5 @@ image::business-critical-gcp.svg[AuraDB Business Critical on GCP]
 
 [TIP]
 ====
-Click to enlarge
+Click to enlarge.
 ====
