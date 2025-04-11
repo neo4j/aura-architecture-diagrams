@@ -2,7 +2,7 @@
 = Virtual Dedicated Cloud on AWS with PrivateLink
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on AWS with AWS PrivateLink 
 
-Use AWS PrivateLink to connect securely to an Aura deployment without exposing traffic to the public internet.
+This diagram illustrates using AWS PrivateLink to connect securely to an Aura deployment without exposing traffic to the public internet.
 For more information see https://neo4j.com/docs/aura/security/secure-connections/#_aws_private_endpoints[AWS Private Endpoints].
 
 image::vdc-aws-privatelink.svg[AuraDB Virtual Dedicated Cloud on AWS with AWS PrivateLink]

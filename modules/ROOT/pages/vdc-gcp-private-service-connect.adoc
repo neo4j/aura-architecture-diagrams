@@ -2,7 +2,7 @@
 = Virtual Dedicated Cloud on GCP with Private Service Connect 
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on GCP with GCP Private Service Connect 
 
-Use Google Private Service Connect to connect securely to an Aura deployment without exposing traffic to the public internet.
+This diagram illustrates using Google Private Service Connect to connect securely to an Aura deployment without exposing traffic to the public internet.
 For more information see link:https://neo4j.com/docs/aura/security/secure-connections/#_gcp_private_endpoints[GCP Private Endpoints].
 
 image::vdc-gcp-private-service-connect.svg[AuraDB Virtual Dedicated Cloud on GCP with GCP Private Service Connect]

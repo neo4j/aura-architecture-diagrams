@@ -5,9 +5,9 @@ ifndef::backend-pdf[]
 = Introduction
 endif::[]
 
-This repository contains Aura architecture diagrams for Virtual Dedicated Cloud (VDC) deployments for each supported cloud provider (AWS, GCP, Azure).
+This repository contains Aura architecture diagrams for Virtual Dedicated Cloud (VDC) deployments for each supported cloud provider (AWS, GCP, Azure). 
 
-Additional diagrams show how to connect with each cloud provider's private endpoints (AWS PrivateLink, GCP Private Service Connect, Azure Private Link).
+It also includes diagrams showing how to connect with each cloud provider's private endpoints (AWS PrivateLink, GCP Private Service Connect, Azure Private Link).
 See xref:aura/security/secure-connections/[Secure connections] for more information.
 
-Platform architecture diagrams represent shared infrastructures used in the Professional and Business Critical plans.
+In addition, platform architecture diagrams represent shared infrastructure used in the Professional and Business Critical plans.
