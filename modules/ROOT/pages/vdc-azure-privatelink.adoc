@@ -1,5 +1,13 @@
 [[aura]]
-= AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link
+= Virtual Dedicated Cloud on Azure with Private Link
 :description: Neo4j Aura Cloud Architecture - AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link
 
+This diagram illustrates using Azure Private Link to connect securely to an Aura deployment without exposing traffic to the public internet.
+For more information see https://neo4j.com/docs/aura/security/secure-connections/#_azure_private_endpoints[Azure Private Endpoints].
+
 image::vdc-azure-privatelink.svg[AuraDB Virtual Dedicated Cloud on Azure with Azure Private Link]
+
+[TIP]
+====
+Click to enlarge
+====
