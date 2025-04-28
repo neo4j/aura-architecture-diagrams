@@ -1,10 +1,8 @@
-= Business Critical / Professional Shared Architecture (Any Cloud)
+= Business Critical / Professional any cloud
 :description: Neo4j Aura Cloud Architecture - AuraDB Business Critical (Shared) Architecture (Any Cloud)
 
-This diagram maps the architecture for Business Critical and Professional deployments on Aura's shared cloud platform.
-It shows how key components, such as Kubernetes clusters and control plane services, are shared across tenants, while customer data and traffic stay securely isolated.
-
-You can follow how connections are managed, workloads are balanced, and how Aura maintains strong separation and security within a shared environment across cloud providers.
+This diagram shows a cloud agnostic view of the architecture for Business Critical and Professional deployments on Aura’s shared platform. 
+It illustrates how shared infrastructure components support multiple projects securely.
 
 image::platform-architecture-any-cloud.svg[AuraDB Business Critical (Shared) Architecture (Any Cloud)]
 
